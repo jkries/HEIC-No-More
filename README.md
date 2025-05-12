@@ -16,6 +16,11 @@
 - Developers working with image assets  
 - Anyone frustrated by HEIC file compatibility issues  
 
+## 📥 Download
+
+The latest Windows executable is available on the [Releases page](https://github.com/jkries/heic-no-more/releases/latest).
+
+
 ## 💻 How to use
 
 - On **Windows**, you can simply run the executable (you may need to approve a security prompt).
@@ -24,3 +29,4 @@
 ```bash
 pip install -r requirements.txt
 python convert.py
+
